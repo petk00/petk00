@@ -9,6 +9,7 @@
 - [ ] Disable **Correct spelling automatically**
 - [ ] Disable **Capitalize words automatically**
 - [ ] Disable **Show inline predictive text**
+- [ ] Disable **smooth animations or smth like that!/.**
 
 ### Desktop
 - [ ] Remove desktop widgets
