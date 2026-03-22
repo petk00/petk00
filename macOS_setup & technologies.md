@@ -40,7 +40,7 @@ brew install git
 brew install node
 ```
 
-- [ ] Oh My Zsh
+- [ ] Oh My Zsh [OBAVEZNO]
 - [ ] PostgreSQL / MariaDB
 
 ---
