@@ -1,6 +1,5 @@
 # 👋 Ciao, ja sam @petk00
 
-I'm an Informatics student from Croatia, learning programming through practice and real projects.
 tech verzija Raskolnikova, "eternal student" informatike iz Rijeke. Jack of all trades, master of...
 Anywayz: ovdje bi trebali bit real life kao i entuzijasticki projekti, kao i moj setup n shit. 
 
