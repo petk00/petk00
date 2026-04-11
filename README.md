@@ -33,3 +33,8 @@ otvoren za razne kombinacije
 
 ## ⚡ Fun fact
 I've spent most of my life around computers, and tech is still one of the things I enjoy the most 
+
+move fast,
+stay close,
+no risk,
+full push.
