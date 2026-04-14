@@ -5,36 +5,30 @@ Anywayz: ovdje bi trebali bit real life kao i entuzijasticki projekti, kao i moj
 
 
 ## 🚀 Currently learning
-- PostgreSQL
-- Web development
-- Vue.js
-- Quasar
+- Web dev
+- Vue.js, PostgreSQL, MySQL, Quasar
 - Hard life
-- kako doci sebi Dizel skocio na 1.75 eur lol
+- kako doci sebi Dizel skocio na 1.75 eur lol (bit ce skoro 2eur)
 
 ## 🎯 Focus
-trenutno kao i cijeli zivot, postati bolja verzija sebe i ne biti trash developer, duning kruger je zajebana stvar. 
-Tako da cu bit iskren prema sebi i reci "improving my programming fundamentals, and building complete applications step by step."
+- move fast
+- stay close
+- no risk
+- full push
 
 ## 🤝 Collaboration
-otvoren za razne kombinacije
+we can try---
 
 ## 💬 Ask me about
 - Databases
-- Web development basics
+- Web dev
 - Oracle APEX
 - Learning by doing
 - Dogs
 - Games
+- Cars
   
 
 ## 📫 Contact
 - igr.petkovic@gmail.com
 
-## ⚡ Fun fact
-I've spent most of my life around computers, and tech is still one of the things I enjoy the most 
-
-move fast,
-stay close,
-no risk,
-full push.
