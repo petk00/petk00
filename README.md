@@ -1,34 +1,48 @@
 # 👋 Ciao, ja sam @petk00
 
-tech verzija Raskolnikova, "eternal student" informatike iz Rijeke. Jack of all trades, master of...
-Anywayz: ovdje bi trebali bit real life kao i entuzijasticki projekti, kao i moj setup n shit. 
+Tech verzija Raskolnikova — eternal student informatike iz Rijeke.
+Jack of all trades, master of... still working on it.
 
+---
 
-## 🚀 Currently learning
-- Web dev
-- Vue.js, PostgreSQL, MySQL, Quasar
-- Hard life
-- kako doci sebi Dizel skocio na 1.75 eur lol (bit ce skoro 2eur)
+## 🛠 Trenutno radim na
 
-## 🎯 Focus
-- move fast
-- stay close
-- no risk
-- full push
+- **veleri.XP** — enterprise aplikacija za upravljanje nabavom (Vue.js + Quasar + Node.js + MySQL)
+- Web development — frontend i backend, fullstack kad treba
+- Diplomski rad @ Veleučilište u Rijeci
 
-## 🤝 Collaboration
-we can try---
+---
 
-## 💬 Ask me about
-- Databases
-- Web dev
-- Oracle APEX
-- Learning by doing
-- Dogs
-- Games
-- Cars
-  
+## 🚀 Stack
 
-## 📫 Contact
-- igr.petkovic@gmail.com
+**Frontend:** Vue.js 3, Quasar Framework, HTML/CSS  
+**Backend:** Node.js, Express, REST API  
+**Baze:** MySQL, PostgreSQL, Oracle APEX  
+**Alati:** Git, Postman, DBeaver, VS Code
 
+---
+
+## 🎯 Pristup
+
+- Move fast
+- Stay close
+- Full push
+- No risk? No fun
+
+---
+
+## 🤝 Suradnja
+
+We can try — pitaj slobodno.
+
+---
+
+## 💬 Pitaj me o
+
+Bazama podataka · Web developmentu · Oracle APEX · Psima · Igricama · Autima · Životu u Rijeci kad dizel ode na 1.75 EUR
+
+---
+
+## 📫 Kontakt
+
+**igr.petkovic@gmail.com**
