@@ -45,4 +45,4 @@ Bazama podataka · Web developmentu · Oracle APEX · Psima · Igricama · Autim
 
 ## 📫 Kontakt
 
-**igr.petkovic@gmail.com**
+**ipetkovic@veleri.hr**
