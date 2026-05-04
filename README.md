@@ -46,3 +46,5 @@ Bazama podataka · Web developmentu · Oracle APEX · Psima · Igricama · Autim
 ## 📫 Kontakt
 
 **ipetkovic@veleri.hr**
+
+maythe4th be with u
