@@ -8,8 +8,7 @@ Jack of all trades, master of... still working on it.
 ## 🛠 Trenutno radim na
 
 - **veleri.XP** — enterprise aplikacija za upravljanje nabavom (Vue.js + Quasar + Node.js + MySQL)
-- Web development — frontend i backend, fullstack kad treba
-- Diplomski rad @ Veleučilište u Rijeci
+- hea/L - mobile aplikacija za infinite scroll detox .-
 
 ---
 
