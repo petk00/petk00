@@ -1,9 +1,5 @@
 # 👋 Ciao, ja sam @petk00
 
-Tech verzija Raskolnikova — eternal student informatike iz Rijeke.
-Jack of all trades, master of... still working on it.
-
----
 
 ## 🛠 Trenutno radim na
 
