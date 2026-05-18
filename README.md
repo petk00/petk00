@@ -39,12 +39,10 @@ We can try — pitaj slobodno.
 
 ## 💬 Pitaj me o
 
-Bazama podataka · Web developmentu · Oracle APEX · Psima · Igricama · Autima · Životu u Rijeci kad dizel ode na 1.75 EUR
+Bazama podataka · Web developmentu · Oracle APEX · Pasi · Simracing · 
 
 ---
 
 ## 📫 Kontakt
 
 **ipetkovic@veleri.hr**
-
-maythe4th be with u
